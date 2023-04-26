@@ -1,9 +1,9 @@
 <h2> Hi, I'm Trung Hau! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-</br>Flutter Developer<a href="#">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Flutter Developer <a href="#"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tôi chỉ Sài Gitlab nên bạn có thể ghé qua<a href="https://gitlab.com/trunghau47"> Gitlab</a> của tôi
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tôi chỉ Sài Gitlab nên bạn có thể ghé qua<a href="https://gitlab.com/trunghau47"> Gitlab </a> của tôi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
 
 <!--
 **trunghau47/trunghau47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
